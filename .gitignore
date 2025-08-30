@@ -1,0 +1,13 @@
+# Ignore big files
+*.mp4
+*.avi
+*.mkv
+*.pt
+*.h5
+*.weights
+
+# Ignore temp files
+__pycache__/
+*.log
+*.DS_Store
+
